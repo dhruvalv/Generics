@@ -47,3 +47,12 @@ public class GenericRemoveDuplicate {
 		return uniq;
 	}
 }
+/*
+ * Output:
+ * 
+ * List Before removing duplicates : 
+ * 11 22 11 0 11 2 2 73 2 1 8 69 70 
+ * List After removing duplicates : 
+ * 11 22 0 2 73 1 8 69 70
+ * 
+ */
